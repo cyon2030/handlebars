@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="handlebars:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="handlebars.war">
+      <element id="artifact" artifact-name="handlebars:war exploded" />
+    </root>
+  </artifact>
+</component>
